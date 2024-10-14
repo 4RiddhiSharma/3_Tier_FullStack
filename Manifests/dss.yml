@@ -5,11 +5,11 @@ metadata:
   name: yelp-camp-secrets
 type: Opaque
 data:
-  CLOUDINARY_CLOUD_NAME: dic9olnwr
-  CLOUDINARY_KEY: 645624598716464
-  CLOUDINARY_SECRET: 6YCdxbrctioN00hbg6M5ySYT2_w
-  MAPBOX_TOKEN: sk.eyJ1IjoicmlkZGhpMTMiLCJhIjoiY20yOHd6bWRuMDl3ZjJwcXlvdWgwenlkdCJ9.KdnQFh08ucPy5Cfi1ePidA
-  DB_URL: "mongodb+srv://aneuriddhi04:BcGAWvnR0hhFRoa3@riddhi-db.vlszc.mongodb.net/?retryWrites=true&w=majority&appName=Riddhi-DB"
+  CLOUDINARY_CLOUD_NAME: ZGljOW9sbndyCg==
+  CLOUDINARY_KEY: NjQ1NjI0NTk4NzE2NDY0Cg==
+  CLOUDINARY_SECRET: NllDZHhicmN0aW9OMDBoYmc2TTV5U1lUMl93Cg==
+  MAPBOX_TOKEN: c2suZXlKMUlqb2ljbWxrWkdocE1UTWlMQ0poSWpvaVkyMHlPSGQ2YldSdU1EbDNaakp3Y1hsdmRXZ3dlbmxrZENKOS5LZG5RRmgwOHVjUHk1Q2ZpMWVQaWRBCg==
+  DB_URL: bW9uZ29kYitzcnY6Ly9hbmV1cmlkZGhpMDQ6QmNHQVd2blIwaGhGUm9hM0ByaWRkaGktZGIudmxzemMubW9uZ29kYi5uZXQvP3JldHJ5V3JpdGVzPXRydWUmdz1tYWpvcml0eSZhcHBOYW1lPVJpZGRoaS1EQgo=
   SECRET: ThreeD
 
 ---
