@@ -8,7 +8,7 @@ data:
   CLOUDINARY_CLOUD_NAME: dic9olnwr
   CLOUDINARY_KEY: 645624598716464
   CLOUDINARY_SECRET: 6YCdxbrctioN00hbg6M5ySYT2_w
-  MAPBOX_TOKEN: sk.eyJ1IjoicmlkZGhpMTMiLCJhIjoiY20yNjIxcDZkMHh0bzJxcXM4Y3QzMmN1ZyJ9.raJofcQY0y4DXqZWqfH7DA
+  MAPBOX_TOKEN: sk.eyJ1IjoicmlkZGhpMTMiLCJhIjoiY20yOHd6bWRuMDl3ZjJwcXlvdWgwenlkdCJ9.KdnQFh08ucPy5Cfi1ePidA
   DB_URL: "mongodb+srv://aneuriddhi04:BcGAWvnR0hhFRoa3@riddhi-db.vlszc.mongodb.net/?retryWrites=true&w=majority&appName=Riddhi-DB"
   SECRET: ThreeD
 
